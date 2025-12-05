@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (6380 workflows)
+## 📚 Workflows Summary (6381 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -5790,6 +5790,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Track Daily SEO Rankings with DataForSEO and Google Sheets-10136](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Daily%20SEO%20Rankings%20with%20DataForSEO%20and%20Google%20Sheets-10136)
 - [Track Demo Bookings with Google Calendar to Meta Conversions API Integration-6331](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Demo%20Bookings%20with%20Google%20Calendar%20to%20Meta%20Conversions%20API%20Integration-6331)
 - [Track Employee Attendance with Analytics, Email Reports & Slack Alerts Using Google Sheets-10106](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Employee%20Attendance%20with%20Analytics%2C%20Email%20Reports%20%26%20Slack%20Alerts%20Using%20Google%20Sheets-10106)
+- [Track Expenses Automatically with Telegram Bot using GPT-4o, OCR and Voice Recognition-11368](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20Automatically%20with%20Telegram%20Bot%20using%20GPT-4o%2C%20OCR%20and%20Voice%20Recognition-11368)
 - [Track Expenses by Parsing Telegram Transaction Messages to Google Sheets-4395](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20by%20Parsing%20Telegram%20Transaction%20Messages%20to%20Google%20Sheets-4395)
 - [Track Expenses from Receipt Photos with AI, Google Sheets & Slack Reports-10970](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20from%20Receipt%20Photos%20with%20AI%2C%20Google%20Sheets%20%26%20Slack%20Reports-10970)
 - [Track Expenses from Receipt Photos with Telegram & Google Sheets using OCR.space-6686](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20from%20Receipt%20Photos%20with%20Telegram%20%26%20Google%20Sheets%20using%20OCR.space-6686)
